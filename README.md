@@ -16,8 +16,8 @@
 
 <!-- ### 🔥 My stats:-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodrlemos&show_icons=true&theme=radical&line_height=20em&card_width=400px)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodrlemos&layout=compact&theme=radical&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodrlemos&show_icons=true&theme=radical&line_height=20em&width=400px)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodrlemos&layout=compact&theme=radical&card_width=380px)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### :hammer_and_wrench: Languages and Tools : -->
 
