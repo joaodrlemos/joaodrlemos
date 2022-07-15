@@ -21,6 +21,8 @@
   <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodrlemos&layout=compact&theme=radical&card_width=380px" alt="Most used languages" />
 </div>
 
+<br/>
+
 <!-- ### :hammer_and_wrench: Languages and Tools : -->
 
 <div id="languages-tools" align="center">
