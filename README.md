@@ -17,7 +17,7 @@
 <!-- ### 🔥 My stats:-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodrlemos&show_icons=true&theme=radical&line_height=20em)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodrlemos&layout=compact&theme=radical&card_width=445px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodrlemos&layout=compact&theme=radical&card_width=425px)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### :hammer_and_wrench: Languages and Tools : -->
 
