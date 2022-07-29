@@ -11,9 +11,6 @@
 <div id="about-me">
   <p align="center">I'm a cheerful and curious software engineer based in Almada, Portugal.</p>
 
-  <p align="center">After graduating I've been mostly working as a support engineer and back-end developer, but after one of my last work experiences I've discovered I like the visual aspect of the web development process a lot, so I dedicated myself to learn and get proficient with the front-end side.</p>
-</div>
-
 <!-- ### 🔥 My stats:-->
 
 <div align="center" style="display:flex">
