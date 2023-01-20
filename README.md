@@ -9,7 +9,9 @@
 <!-- ### About me: -->
 
 <div id="about-me">
-  <p align="center">I'm a cheerful and curious software engineer based in Almada, Portugal.</p>
+  <p align="center">Hey there, I'm a cheerful and versatile software engineer based in Almada, Portugal.</p>
+
+  <p align="center">I have done mainly Back-end development during my career, but recently I found that I love the Front-end side more, so I decided to switch and specialize in it.</p>
 
 <!-- ### 🔥 My stats:-->
 
