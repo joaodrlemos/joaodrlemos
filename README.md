@@ -11,7 +11,7 @@
 <div id="about-me">
   <p align="center">Hey there, I'm a cheerful and versatile software developer based in Almada, Portugal.</p>
 
-  <p align="center">I have done mainly Back-end development during my career, but recently I found that I love the Front-end side more, so I decided to switch and specialize.</p>
+  <p align="center">Passionate about Art, Technology and Self Improvement, cheerful, ambitious and always finding fun in any situation</p>
 
 <!-- ### 🔥 My stats:-->
 
