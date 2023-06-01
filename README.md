@@ -9,7 +9,7 @@
 <!-- ### About me: -->
 
 <div id="about-me">
-  <p align="center">Passionate about Art, Technology and Self Improvement, cheerful, ambitious and always finding fun in any situation</p>
+  <p align="center">Passionate about Art, Technology and Self Improvement</p>
 
 <!-- ### 🔥 My stats:-->
 
