@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hi there, I'm João Lemos, Software developer 💻 </h2>
+<h2>Hi there, I'm João Lemos, Front-end developer 💻 </h2>
 </div>
 
 <!--<div id="header" > 
