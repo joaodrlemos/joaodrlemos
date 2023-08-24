@@ -9,18 +9,17 @@
 <!-- ### About me: -->
 
 <div id="about-me">
-  <p align="center">Passionate about Art, Technology and Self Improvement</p>
+<!-- <p align="center">Passionate about Art, Technology and Self Improvement</p> -->
 
 <!-- ### 🔥 My stats:-->
 
-  <!--
+
 
 <div align="center" style="display:flex">
   <img height=150em width=380 src="https://github-readme-stats.vercel.app/api?username=joaodrlemos&show_icons=true&theme=radical&line_height=25em" alt="Github Stats" />
   <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodrlemos&layout=compact&theme=radical&card_width=350px" alt="Most used languages" />
 </div>
 
--->
 
 <br/>
 
