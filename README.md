@@ -44,11 +44,11 @@
 ---
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/joaodrlemos/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn Badge"/>
-  </a>
   <a href="mailto:joaodrlemos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" title="joaodrlemos@gmail.com" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joaodrlemos/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/johny_lemings/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram Badge"/>
